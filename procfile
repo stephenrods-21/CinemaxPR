@@ -1,0 +1,1 @@
+web: gunicorn cimemax.wsgi --log-file
